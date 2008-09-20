@@ -23,8 +23,8 @@ Generates automatically the Open search document for your WordPress blog. It all
 == Installation ==
 
 1. Download and unzip the plugin files.
-1. Upload the files to the `/wp-content/plugins/` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Upload the files to the `/wp-content/plugins/` directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
