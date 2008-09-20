@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Opens search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-20 17:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Darathor <darathor@free.fr>\n"
+"Language-Team: EDForum <darahor@free.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: ../open-search.php:15
+msgid "Search in posts"
+msgstr "Recherche dans les articles"
+
