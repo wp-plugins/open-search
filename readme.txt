@@ -14,17 +14,17 @@ Generates automatically the Open search document for your WordPress blog. It all
 = Version History =
 
 * 1.0.1
-** [TRANSLATION] Added the english localization file. 
-** [DOC] Added the readme.txt file.
+	* [TRANSLATION] Added the english localization file. 
+	* [DOC] Added the readme.txt file.
 	
 * 1.0
-** [NEW] first version.
+	* [NEW] first version.
 
 == Installation ==
 
 1. Download and unzip the plugin files.
-1. Upload the files to the `/wp-content/plugins/` directory.
-1. Activate the plugin through the 'Plugins' menu in WordPress.
+2. Upload the files to the `/wp-content/plugins/` directory.
+3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 == Frequently Asked Questions ==
 
@@ -35,5 +35,3 @@ The icon is automatically found according to the following priorities : current 
 == Screenshots ==
 
 1. Blogs added the the Firefox search engines list.
-
-
